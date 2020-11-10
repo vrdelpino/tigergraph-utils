@@ -212,7 +212,12 @@ Documents and Forum
 - Forum
 If you like the tutorial and want to explore more, join the GSQL developer community at 
 
-    https://groups.google.com/a/opengsql.org/forum/?hl=en#!forum/gsql-users
+    https://community.tigergraph.com
+
+- Developer Chat
+If you would like to talk with other TigerGraph developers and get real time feedback, check out the community chat server 
+    
+    https://discord.gg/F2c9b9v
 
 - Videos to learn
 
